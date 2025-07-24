@@ -2,7 +2,7 @@
 README.md - Modern Portfolio for Avinash V Metre
 -->
 
-<h1 align="center">Avinash V Metre</h1>
+<h1 align="center">AVINASH</h1>
 <p align="center">
   <strong>Backend Developer | Software Engineer | Dynamic Problem Solver</strong>
 </p>
