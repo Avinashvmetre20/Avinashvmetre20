@@ -11,9 +11,8 @@ README.md - Modern Portfolio for Avinash V Metre
   <a href="https://avinashvmetre20.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-Website-blue?logo=about-dot-me&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Avinashvmetre20" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Avinashvmetre20-black?logo=github&style=for-the-badge" />
-  </a>
+ 
+  
   <a href="https://www.linkedin.com/in/avinashvmetre20/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Avinash-blue?logo=linkedin&style=for-the-badge" />
   </a>
